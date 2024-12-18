@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "category": "Work",
+        "description": "Finish CV",
+        "status": "complete"
+    },
+    {
+        "id": 2,
+        "category": "School",
+        "description": "Finish HW",
+        "status": "complete"
+    }
+]
